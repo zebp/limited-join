@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2018"
 license = "MIT"
 authors = ["Zebulon Piasecki"]
+description = "A zero-dependency crate providing a join future with limited concurrency"
+documentation = "https://docs.rs/limited-join"
+repository = "https://github.com/zebp/limited-join"
+homepage = "https://github.com/zebp/limited-join"
 
 [dependencies]
 
