@@ -1,0 +1,12 @@
+[package]
+name = "limited-join"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+authors = ["Zebulon Piasecki"]
+
+[dependencies]
+
+[dev-dependencies]
+tokio = { version = "1.20.0", features = ["test-util", "macros"] }
+tokio-test = "0.4.2"
